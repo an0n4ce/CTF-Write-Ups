@@ -2,7 +2,7 @@
 
 ![](image/chall.png)
 
-When we looking in the webpage there is a login portal, we don't have any credentials to login in.
+When we looking in the webpage there is a login portal, we don't have any credentials to login.
 
 ![](image/web.png)
 
