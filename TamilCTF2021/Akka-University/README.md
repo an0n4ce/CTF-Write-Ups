@@ -26,7 +26,7 @@ And put it in url path `http://143.110.246.109:8000/img/VE44NTExMDU=.png` they g
 
 So they saying `Try to view-source in different way`, I paste the url on Chromium web browser, `view-source:http://143.110.246.109:8000/img/VE44NTExMDU=.png`
 
-![](image/char1.png)
+![](image/chr1.png)
 
 We can see there is base64 encoded string in the bottom, decode it to get the flag.
 
