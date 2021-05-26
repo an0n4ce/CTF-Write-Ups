@@ -2,7 +2,7 @@
 
 ![](img/chall.png)
 
-It's Standard Galactic Alphabet.
+It is `Standard Galactic Alphabet`.
 
 ![](img/1.png)
 
