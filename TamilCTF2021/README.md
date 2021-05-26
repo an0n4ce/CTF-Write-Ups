@@ -27,4 +27,9 @@
 
 * [UFO Signal](https://github.com/an0n4ce/CTF-Write-Ups/blob/master/TamilCTF2021/UFO-Signal/README.md)
 
+## OSINT
+
+* [Who is this?](https://github.com/an0n4ce/CTF-Write-Ups/blob/master/TamilCTF2021/Who-is-this%3F/README.md)
+* [Photographer ah nanu?](https://github.com/an0n4ce/CTF-Write-Ups/blob/master/TamilCTF2021/Photographer-ah-nanu%3F/README.md)
+
 
