@@ -8,6 +8,6 @@ From the name of the challenge, we get its a `Fractionated Morse Cipher`.
 
 So [decode](https://www.dcode.fr/fractionated-morse) to get the flag.
 
-![](img/flag.txt)
+![](img/flag.png)
 
 ```flag = TamilCTF{NEWTYPEOFMORSECODEIGUESS}```
