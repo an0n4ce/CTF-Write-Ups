@@ -10,7 +10,7 @@ I used [CyberChef](https://gchq.github.io/CyberChef/). there is a file upload op
 
 ![](img/1.png)
 
-Its show a Image file, So i go for `Render Image` option on cyberchef. we will get the flag there.
+It seems a Image file, So i go for `Render Image` option on cyberchef. we will get the flag there.
 
 ![](img/flag.png)
 
