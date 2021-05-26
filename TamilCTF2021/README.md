@@ -12,5 +12,14 @@
 
 ## Forensics
 
+* [GitHub](https://github.com/an0n4ce/CTF-Write-Ups/blob/master/TamilCTF2021/GitHub/README.md)
 * [Corrupt Pannitaanga Karna](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/TamilCTF2021/Corrupt-Pannitaanga-Karna/README.md)
 * [GoodBook](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/TamilCTF2021/GoodBook/README.md)
+
+## Crypto
+
+* [Boss Image](https://github.com/an0n4ce/CTF-Write-Ups/blob/master/TamilCTF2021/Boss-Image/README.md)
+* [FracMore](https://github.com/an0n4ce/CTF-Write-Ups/blob/master/TamilCTF2021/FracMore/README.md)
+* [Galaxy](https://github.com/an0n4ce/CTF-Write-Ups/blob/master/TamilCTF2021/Galaxy/README.md)
+* [RaaamSaAran](https://github.com/an0n4ce/CTF-Write-Ups/blob/master/TamilCTF2021/RaaamSaAran/README.md)
+
