@@ -2,6 +2,7 @@
 
 ![](img/chal.png)
 
+Challenge [Link](http://3.142.122.1:9335/)
 There is php code, to get the flag.
 
 ![](img/1.png)
