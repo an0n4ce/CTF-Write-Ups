@@ -29,7 +29,7 @@ It's JWT Token. Here i used [jwt.io](https://jwt.io/) to decode that token.
 
 ![](img/7.png)
 
-We can see here username and password is encoded to `ROT13` cipher. Now we need `SIGNATURE` key to verify. When we get file named `admins` there is `file=` parameter to get file. that is `/getFile?file=admins`. maybe there is chance for `LFI` vulnerability. Let's look that to get something interesting file.
+We can see here username and password is encoded to `ROT13` cipher. Now we need `SIGNATURE` key to verify. When we get file named `admins` there is `file=` parameter to get file. that is `/getFile?file=admins`. maybe there is chance for `LFI` vulnerability. Let's look that to get something interesting file with `curl` command.
 
 ![](img/10.png)
 
