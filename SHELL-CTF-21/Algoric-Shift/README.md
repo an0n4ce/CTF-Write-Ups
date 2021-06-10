@@ -2,7 +2,7 @@
 
 ![](img/chal.png)
 
-solve.py:
+script.py:
 ```
 text = 'flag{...}'
 
