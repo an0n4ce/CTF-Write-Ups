@@ -8,7 +8,7 @@ There is a login Portal.
 
 ![](img/1.png)
 
-I put `admin::admin` as username:password, they showing `Only for user: din_djarin11`. we got username.
+I put `admin::admin` as username:password, they showing `Only for user: din_djarin11`.We got username.
 
 ![](img/0.png)
 
@@ -16,7 +16,7 @@ Let's check the source code.
 
 ![](img/02.png)
 
-From the soucecode we know there is a function called `checkIt()` also source is from `main.js`. let's check it.
+From the sourcecode, we know there is a function called `checkIt()` also source is from `main.js`. let's check it.
 
 ![](img/2.png)
 
