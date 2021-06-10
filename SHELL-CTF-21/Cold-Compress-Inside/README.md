@@ -2,7 +2,7 @@
 
 ![](img/chal.png)
 
-Let's do `bimwalk` on given file.
+Let's do `binwalk` on given file.
 
 ![](img/1.png)
 
