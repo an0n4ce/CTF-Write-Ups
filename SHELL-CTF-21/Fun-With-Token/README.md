@@ -44,7 +44,7 @@ Let's Look on `/admin`
 
 ![](img/8.png)
 
-That message saying somthing interesting about headers. Before that we need to do somthing on our token, We need add SIGNATURE key. And the payload `admin` value is `false`, change that into `true` with `rot13` encoded string `gehr`. let's create the token.
+That message saying somthing interesting about headers. Before that we need to do something on our token, We need add SIGNATURE key. And the payload `admin` value is `false`, change that into `true` with `rot13` encoded string `gehr`. let's recreate the token.
 
 ![](img/12.png)
 
