@@ -1,3 +1,5 @@
+![](shellctf.png)
+
 # Challenges
 
 ## Web
