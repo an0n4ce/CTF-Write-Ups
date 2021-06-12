@@ -15,3 +15,12 @@
 * [Hidden inside 2](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/SHELL-CTF-21/Hidden-inside-2/README.md)
 * [Grass is green](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/SHELL-CTF-21/Grass-is-green/README.md)
 
+## Cryptography
+
+* [encoder](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/SHELL-CTF-21/encoder/README.md)
+* [EASY_RSA](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/SHELL-CTF-21/EASY-RSA/README.md)
+* [Algoric-Shift](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/SHELL-CTF-21/Algoric-Shift/README.md)
+* [Subsi](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/SHELL-CTF-21/Algoric-Shift/README.md)
+* [haxxor](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/SHELL-CTF-21/haxxor/README.mm)
+* [cjk](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/SHELL-CTF-21/cjk/README.md)
+* [Bruteforce RSA](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/SHELL-CTF-21/Bruteforce-RSA/README.md)
