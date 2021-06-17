@@ -23,6 +23,6 @@
 * [EASY_RSA](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/SHELL-CTF-21/EASY-RSA/README.md)
 * [Algoric-Shift](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/SHELL-CTF-21/Algoric-Shift/README.md)
 * [Subsi](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/SHELL-CTF-21/Algoric-Shift/README.md)
-* [haxxor](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/SHELL-CTF-21/haxxor/README.mm)
+* [haxxor](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/SHELL-CTF-21/haxxor/README.md)
 * [cjk](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/SHELL-CTF-21/cjk/README.md)
 * [Bruteforce RSA](https://github.com/an0n4ce/CTF-Write-Ups/tree/master/SHELL-CTF-21/Bruteforce-RSA/README.md)
