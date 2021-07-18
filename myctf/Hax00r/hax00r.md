@@ -13,7 +13,8 @@ Here is i used [CyberChef](https://gchq.github.io/CyberChef/) to decode.
 ![](img/2.png)
 
 We already know it's a `XOR` now we need a key to decrypt it. From the hint we will get key to decrypt.
-The hint is " There are 3 types of hackers [ BlackHat | WhiteHat | GreyHat ] "
+
+The hint is `" There are 3 types of hackers [ BlackHat | WhiteHat | GreyHat ] "`
 So key will be `3`
 
 ![](img/flag.png)
