@@ -25,6 +25,4 @@ As per the hint given, if it `Vigenere Cipher` then key will be `VIG` or `vig`, 
 
 Set Decryption Method to `KNOWING THE KEY/PASSWORD:` and put our key `VIG` you will get the flag.
 
-```
-an0n4ce{V1G3n3r3_D3c0d3d}
-```
+``` an0n4ce{V1G3n3r3_D3c0d3d} ```
