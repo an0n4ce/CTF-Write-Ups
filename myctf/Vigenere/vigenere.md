@@ -11,7 +11,7 @@ It's an encoded cipher, we can use [cipher-identifier](https://www.dcode.fr/ciph
 
 ![](img/2.png)
 
-These are all possibilities, we need to look one bye one. From given hints we can go more straight forward, 
+These are all possibilities, we need to look one by one. From given hints we can go more straight forward, 
 
 They said `" First 3 letter of encoded cipher name will be Key " ` and Author name looks like kind a interesting.. `V`
 
