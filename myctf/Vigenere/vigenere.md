@@ -15,7 +15,7 @@ These are all possibilities, we need to look one by one. From given hints we can
 
 They said `" First 3 letter of encoded cipher name will be Key " ` and Author name looks like kind a interesting.. `V`
 
-So we need to find which encoding uses a `KEY` to decode, from the cipher-idetifier list.
+So we need to find which encoding uses a `KEY` to decode, from the cipher-identifier list.
 
 There is only one cipher name we found before, Starting with letter `V`, So we can go for it First `Vigenere Cipher`.
 
