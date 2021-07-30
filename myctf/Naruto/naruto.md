@@ -40,7 +40,7 @@ Let's take a look at `JPEG` file signature, that is `FF D8 FF E0 00 10 4A 46 49 
 
 ![](img/6.png)
 
-So here is wrong hex signature where i marked let's correct it, Put `00 10 4A 46` insted of `0D 0A 1A 0A` and save the image using `ctrl + x`.
+Here is wrong hex signature where i marked, let's correct it, and Put `00 10 4A 46` insted of `0D 0A 1A 0A` and save the image using `ctrl + x`.
 
 ![](img/7.png)
 
