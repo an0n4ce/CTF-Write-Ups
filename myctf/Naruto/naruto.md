@@ -20,7 +20,7 @@ file Naruto.png
 
 ![](img/4.png)
 
-So the file is `JPEG`, but here extention is `png` let's change it with `mv` command.
+So the file is `JPEG` image, but here extention is `png` let's rename it with `mv` command.
 ```bash
 mv Naruto.png Naruto.jpg
 ```
