@@ -48,7 +48,7 @@ Let's look at the image now.
 
 ![](img/8.png)
 
-We got our image. There is encypted flag on the picture. Now we need to utilize the hint to get flag.
+We got our image. There is a encypted flag on the picture. Now we need to utilize the hint to get flag.
 
 Hint : `When i was downloading episode 301, TOR send me the download request 47 times repeatably. I don't know whats's going on.`
 
