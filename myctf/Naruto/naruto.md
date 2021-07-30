@@ -14,6 +14,9 @@ Let's look at it.
 ![](img/3.png)
 
 It's a corrupted picture. Let's check with `file` command.
+```bash
+file Naruto.png
+```
 
 ![](img/4.png)
 
