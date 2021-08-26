@@ -21,7 +21,7 @@ stegsnow -C -Q -p welc0me_to_gravithon2021_ctf snow/challenge.txt
 
 ```
 
-![](img/4,png)
+![](img/4.png)
 
 ```
 gravithon{i5_it_c0ld_ov3r_th3re}
