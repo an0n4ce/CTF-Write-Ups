@@ -6,7 +6,7 @@ This box can be solved in two ways, I'll be explaining one of them. In this path
 ### Initial Foothold
 Once the machine gets deployed, we can go `http://<machine_ip>` and see that there is an auto-sizing Brooklyn Nine-Nine poster that adjusts its size to our browser's window size. Which looks like:
 
-![homepage_poster](./.images/homepage_poster.png)
+![homepage_poster](./.images/brook.png)
 
 For any webpage, the first thing that we can do is check out it's source-code and over there we can see a hint related to `steganography`.
 
@@ -27,7 +27,7 @@ We can pass on a wordlist to StegCracker which it uses to attack the target file
 ```
 tester@kali:~/Downloads$ stegcracker brooklyn99.jpg 
 StegCracker 2.0.9 - (https://github.com/Paradoxis/StegCracker)
-Copyright (c) 2020 - Luke Paris (Paradoxis)
+Copyright (c) 2023 - Luke Paris (Paradoxis)
 
 No wordlist was specified, using default rockyou.txt wordlist.
 Counting lines in wordlist..
@@ -57,7 +57,7 @@ ECDSA key fingerprint is SHA256:Ofp49Dp4VBPb3v/vGM9jYfTRiwpg2v28x1uGhvoJ7K4.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
 Warning: Permanently added '10.10.182.115' (ECDSA) to the list of known hosts.
 holt@10.10.182.115's password: 
-Last login: Tue May 26 08:59:00 2020 from 10.10.10.18
+Last login: Tue Sep 17 08:59:00 2024 from 10.10.10.18
 holt@brookly_nine_nine:~$ cat user.txt 
 *******************************
 ```
